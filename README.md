@@ -13,8 +13,9 @@ Designed to practice modern layouts, utility-first styling, and clean UI structu
 
 ---
 
-## 🔥 Live Demo
-tweetfeed.netlify.app
+## 🔥 Live Demo- https://tweetfeed.netlify.app/
+
+---
 
 ## 🛠️ Tech Stack
 - **HTML**
